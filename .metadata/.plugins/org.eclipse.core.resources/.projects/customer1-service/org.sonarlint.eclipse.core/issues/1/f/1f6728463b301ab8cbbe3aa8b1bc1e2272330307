@@ -1,0 +1,14 @@
+
+w
+java:S4684:"@Replace this persistent entity with a simple POJO or DTO object.(ÍÙŽòüÿÿÿÿH¥ RCRITICALZVULNERABILITY
+r
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(×«™ÙH¦ RCRITICALZVULNERABILITY
+Œ
+java:S1488I"`Immediately return this expression instead of assigning it to the temporary variable "custprod".(‰çŸšH§ RMINORZ
+CODE_SMELL
+y	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×«™ÙHª RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê½·ãøÿÿÿÿH« RMINORZ
+CODE_SMELL
+q
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(ä³¢sH¬ RCRITICALZVULNERABILITY

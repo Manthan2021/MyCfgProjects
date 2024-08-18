@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=D\:\\microservice-workspace\\customer1-service\\.git;D\:\\microservice-workspace\\product1-service\\.git;
+GitRepositoriesView.GitDirectories.relative=customer1-service\\.git;product1-service\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

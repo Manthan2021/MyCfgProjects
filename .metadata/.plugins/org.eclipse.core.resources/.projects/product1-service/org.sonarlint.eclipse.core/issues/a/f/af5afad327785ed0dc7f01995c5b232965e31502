@@ -1,0 +1,6 @@
+
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(ק‰מƒ8ַÜÊûל/H!RMINORZ
+CODE_SMELL
+
+java:S3655H"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(דחמ¶ûÿÿÿÿ8ָÜÊûל/H‘!RMAJORZBUG
